@@ -1,1 +1,1 @@
-# jour_2_landing_page_theme
+# jour_2_landing_page
